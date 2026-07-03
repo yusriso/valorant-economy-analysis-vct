@@ -5,6 +5,7 @@ examining how in-game economy drives round and map outcomes.
 
 **[View the interactive Tableau dashboard →](https://public.tableau.com/views/TheEconomicsofProVALORANT/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+![Dashboard](dashboard.png)
 
 ## Overview
 
