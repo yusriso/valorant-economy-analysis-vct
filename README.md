@@ -55,7 +55,9 @@ The unifying theme: **early economic advantages compound.**
 
 Analysis covers professional (VCT) play, so findings describe high-level competition
 and may not generalize to ranked ladder play. Buy "tier" is a coarse proxy for exact
-credits spent. [Dataset sourced from u/benetheburrito from r/ValorantCompetitive and VLR.gg]
+credits spent. 
+Dataset sourced from u/benetheburrito from r/ValorantCompetitive and VLR.gg
+
 
 ---
 
